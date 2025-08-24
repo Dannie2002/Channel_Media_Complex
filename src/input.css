@@ -7,7 +7,17 @@
   html {
     font-family: 'Geologica', sans-serif;
   }
-  h1 {
-    font-family: 'Outfit', sans-serif;
+  p{
+    font-family: 'Geologica', sans-serif;
   }
+}
+
+@font-face {
+  font-family:'wondera';
+  src: url('wondera.otf');
+  font-family:'Kerub';
+  src: url('fonts/Kerub.otf');
+}
+.heading{
+  font-family:Kerub;
 }
