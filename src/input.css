@@ -17,7 +17,9 @@
   src: url('wondera.otf');
   font-family:'Kerub';
   src: url('fonts/Kerub.otf');
+  font-family: 'felast';
+  src: url('fonts/felast.otf');
 }
 .heading{
-  font-family:Kerub;
+  font-family:felast,kerub;
 }
